@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @The-WildWolf
-- 👀 I’m interested in many things
+- 👀 I’m interested in python ;) and dogfitness
 - 🌱 I’m currently learning Python/Bash
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m open for new possibilities
 - 📫 How to reach me: via github
 
 <!---
